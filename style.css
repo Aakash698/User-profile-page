@@ -107,21 +107,3 @@ h4 {
     font-size: 12px;
     font-weight: 600;
 }
-
-.lower-container.form.Music-Player {
-    padding: 12px 20px;
-    background: #7F00FF;
-    border: none;
-    color: white;
-    border-radius: 30px;
-    font-size: 12px;
-    text-decoration: none;
-    font-weight: bold;
-    transition: all .3s ease-in;
-}
-
-.lower-container .btn:hover {
-    background: transparent;
-    color: #7F00FF;
-    border: 2px solid #7F00FF;
-}
